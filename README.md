@@ -5,7 +5,7 @@
 
 - **황세웅** 지음
 - ISBN: 9791158393816
-- 판형: 188*240*29mm
+- 판형: 188x240x29mm
 - 38,000원 | 2023년 1월 19일 발행 | 636쪽
 - [책 홈페이지](https://wikibook.co.kr/eda/)
 - [도서 미리보기](http://www.yes24.com/Product/Viewer/Preview/116856857)
@@ -33,5 +33,5 @@
  
  - [예스24](http://www.yes24.com/Product/Goods/116856857)
  - [교보문고](https://product.kyobobook.co.kr/detail/S000200640617)
- - [인터파크]()
+ - [인터파크](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=356397115)
  - [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308621189)
